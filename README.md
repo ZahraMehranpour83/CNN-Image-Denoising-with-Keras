@@ -1,13 +1,13 @@
-#CNN Image Denoising with Keras
+CNN Image Denoising with Keras
 
-📌 #Introduction
+📌 Introduction
 
 This project implements a Convolutional Neural Network (CNN) inspired by U-Net architecture to remove noise from images in the MNIST dataset. The workflow involves adding Gaussian noise to clean images and then training the model to reconstruct the original, noise-free images.
 
 
 ---
 
-📂 #Project Structure
+📂 Project Structure
 
 1. Data Loading – Load MNIST dataset from Keras.
 
@@ -28,7 +28,7 @@ This project implements a Convolutional Neural Network (CNN) inspired by U-Net a
 
 ---
 
-⚙ #Requirements
+⚙ Requirements
 
 Install the following dependencies before running the code:
 
@@ -37,7 +37,7 @@ pip install numpy matplotlib tensorflow
 
 ---
 
-🚀 #
+🚀 
 How to Run
 
 1. Open the CNN_DENOIS.ipynb notebook.
